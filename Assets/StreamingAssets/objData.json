@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "pos": {
+                "x": 1.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "patrolPathName": "",
+            "maxSpeed": 0.0
+        },
+        {
+            "pos": {
+                "x": 5.0,
+                "y": -8.0,
+                "z": 0.0
+            },
+            "patrolPathName": "",
+            "maxSpeed": 0.0
+        }
+    ]
+}
