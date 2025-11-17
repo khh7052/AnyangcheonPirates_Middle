@@ -1,7 +1,8 @@
 # 앵그리 피타고라스 - 수학 교육 게임
 <img width="2000" height="1125" alt="screenshot_2024-07-15_063324" src="https://github.com/user-attachments/assets/60121f07-94d3-4594-909b-7691018fc594" />
 
-
+### 📹 게임플레이  
+- **(https://youtu.be/9aRjqawQF2o)**: 완전한 게임플레이 시연
 
 ## 📖 프로젝트 개요
 
@@ -306,15 +307,6 @@ public class Particle_Collider : MonoBehaviour
 - **함수 구현**: 수학적 개념의 실제 적용
 - **알고리즘 최적화**: 효율적인 계산 접근법
 - **교육적 설계**: 정확성과 플레이ABILITY 간 균형
-
-## 🔗 자료 및 링크
-
-### 📹 데모 및 프레젠테이션
-- **[게임플레이 비디오](https://youtu.be/9aRjqawQF2o)**: 완전한 게임플레이 시연
-
-### 🎮 플레이 가능한 데모
-- **플랫폼**: Android (Google Play Games 연동)
-- **상태**: 완전한 기능 세트를 갖춘 빌드 준비
 
 ---
 
