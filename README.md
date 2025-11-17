@@ -14,7 +14,7 @@
 ### 🏗️ 기술적 구현
 - **엔진**: Unity 2D
 - **언어**: C#
-- **플랫폼**: Android (Google Play Games 연동)
+- **플랫폼**: PC
 - **개발 기간**: 3일 (2024년 7월 8-11일)
 
 ## 👥 팀 구성 및 역할
@@ -255,12 +255,6 @@ public class Particle_Collider : MonoBehaviour
 - **Unity UI System**: 인터페이스 관리
 - **Unity Animation System**: 오라 효과 애니메이션
 
-**📱 모바일 최적화**
-- **터치 입력 처리**: 모바일 터치 인터페이스
-- **화면 해상도 적응**: 다양한 모바일 디바이스 지원
-- **배터리 사용 최적화**: 게임 성능과 배터리 효율 균형
-- **Google Play Games 연동**: 플랫폼 연동 서비스
-
 ## 🚀 기술적 혁신
 
 ### 교육적 게임 디자인
@@ -289,7 +283,6 @@ public class Particle_Collider : MonoBehaviour
 - **코드 품질**: 구조화된 201개 스크립트
 - **플레이ABILITY**: 10개의 완전한 레벨
 - **완성도**: 완전한 UI, 사운드, 시각 효과
-- **배포**: Android 플랫폼에 성공적 빌드
 
 ## 💡 기술적 인사이트 및 학습
 
